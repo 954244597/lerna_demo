@@ -3,7 +3,7 @@
     "version": "0.0.0",
     "description": "> TODO: description",
     "author": "陈铭 <954244597@qq.com>",
-    "homepage": "https://github.com/954244597/lerna_demo#readme",
+    "homepage": "git@github.com:954244597/lerna_demo.git#readme",
     "license": "ISC",
     "main": "lib/util.js",
     "dependencies": {
@@ -21,12 +21,12 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/954244597/lerna_demo.git"
+        "url": "git@github.com:954244597/lerna_demo.git/lerna_demo.git"
     },
     "scripts": {
         "test": "echo \"Error: run tests from root\" && exit 1"
     },
     "bugs": {
-        "url": "https://github.com/954244597/lerna_demo/issues"
+        "url": "git@github.com:954244597/lerna_demo.git/issues"
     }
 }
