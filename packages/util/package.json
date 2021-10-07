@@ -4,7 +4,7 @@
     "description": "> TODO: description",
     "author": "陈铭 <954244597@qq.com>",
     "homepage": "git@github.com:954244597/lerna_demo.git#readme",
-    "license": "ISC",
+    "license": "MIT",
     "main": "lib/util.js",
     "dependencies": {
         "classnames": "^2.2.6"
@@ -28,5 +28,6 @@
     },
     "bugs": {
         "url": "git@github.com:954244597/lerna_demo.git/issues"
-    }
+    },
+    "gitHead": "0417d5afddb2db26706a694713f93486a2d375d1"
 }
