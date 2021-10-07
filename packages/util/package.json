@@ -1,0 +1,32 @@
+{
+    "name": "@cwm-lerna-demo/util",
+    "version": "0.0.0",
+    "description": "> TODO: description",
+    "author": "陈铭 <954244597@qq.com>",
+    "homepage": "https://github.com/954244597/lerna_demo#readme",
+    "license": "ISC",
+    "main": "lib/util.js",
+    "dependencies": {
+        "classnames": "^2.2.6"
+    },
+    "directories": {
+        "lib": "lib",
+        "test": "__tests__"
+    },
+    "files": [
+        "lib"
+    ],
+    "publishConfig": {
+        "registry": "http://registry.npmjs.org"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/954244597/lerna_demo.git"
+    },
+    "scripts": {
+        "test": "echo \"Error: run tests from root\" && exit 1"
+    },
+    "bugs": {
+        "url": "https://github.com/954244597/lerna_demo/issues"
+    }
+}
